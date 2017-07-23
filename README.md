@@ -4,6 +4,7 @@ The Main Purpose of this Bot is to ensure spam robots do not join a Discord Serv
 
 ## Important!
 This requires Discord.js!
+
 You will need to research yourself on how to set that all up. As well as a Discord BOT TOKEN.
 
 This Code is very messy admittedly, this is my first time working with Discord.JS and this is by far not an efficient way to run this at all.
